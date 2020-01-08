@@ -1,0 +1,110 @@
+{
+	"landing": {
+		"firstName": "Pankaj",
+		"lastName": "Kumar",
+		"phoneNumber": "+91-8130526710",
+		"bio": "Final year undergrad and a part-time web developer",
+    		"email": "pankaj3359kr@gmail.com",
+    		"linkedin": "https://linkedin.com/in/ipankajkr",
+		"github": "https://github.com/ipankajkr"
+	},
+	"experience": [
+		{
+			"position": "Web Developer",
+			"organization": "Freelancing",
+			"aboutWork": "Developed websites for my clients using various web development approaches from WordPress to advanced web development technology like React",
+			"fromDate": "Jan 2018",
+			"toDate": "Present"
+		},
+
+		{
+			"position": "Founder",
+			"organization": "HostNirvana",
+			"aboutWork": "Built a Web Hosting service offering SSD-powered hosting primarily for students in a comparatively lower prices. The complete website was built using WordPress and WHMCS.",
+			"fromDate": "June 2018",
+			"toDate": "January 2019"
+		},
+		
+		{
+			"position": "Web Developer (Volunteer)",
+			"organization": "Utthan",
+			"aboutWork": "Maintaining the overall design and functioning of the website.",
+			"fromDate": "July 2019",
+			"toDate": "Present"
+		}
+    ],
+
+    "trainings": [{
+        "name": "Web Development with React Native",
+        "university": "Brillica Services",
+        "degree": "Credit",
+        "gpa": "",
+        "fromDate": "JUNE 2019",
+        "toDate": "JULY 2019",
+        "courseWork": "Introduction to Web, Basic Web Development, Bootstrap, React, React Native, Redux"
+    },
+    {
+        "name": "Interactivity with JavaScript",
+        "university": "University of Michigan on Coursera",
+        "degree": "Non-Credit",
+        "gpa": "",
+        "fromDate": "MAY 2019",
+        "toDate": "JUNE 2019",
+        "courseWork": "Front-end Web UI Frameworks Overview: Bootstrap, Bootstrap CSS Components, Bootstrap Javascript Components, Web Tools"
+    },
+    {
+        "name": "Front End Web UI Frameworks and Tools: Bootstrap 4",
+        "university": "The Hong Kong University of Science and Technology on Coursera",
+        "degree": "Non-Credit",
+        "gpa": "",
+        "fromDate": "MAY 2018",
+        "toDate": "MAY 2018",
+        "courseWork": "Front-end Web UI Frameworks Overview: Bootstrap, Bootstrap CSS Components, Bootstrap Javascript Components, Web Tools"
+    }
+],
+    
+	"education": [{
+			"university": "DIT University",
+			"degree": "B.TECH",
+			"gpa": "",
+			"fromDate": "JULY 2016",
+			"toDate": "PRESENT",
+			"courseWork": "Discrete Mathematics, Data Structures, Java, C, Computer Organisation, C++, Digital System Design, Computer Based Numerical and Statistical Techniques, Advanced Java"
+        }
+    ],
+
+	"skills": [{
+			"name": "Bootstrap"
+		},
+		{
+			"name": "Wordpress"
+        },
+        {
+			"name": "React Native"
+        },
+        {
+			"name": "React.js"
+        },
+        {
+			"name": "HTML"
+        },
+        {
+			"name": "CSS"
+        },
+        {
+			"name": "PHP"
+        }
+    ],
+    
+	"interests": {
+		"paragraphOne": "Apart from being a web developer, I enjoy travelling a lot. I love mountains and I sincerely wish to explore different places and cultures throughout my life.",
+		"paragraphTwo": "I love listening to Electronic Dance Music and always love spending time on my laptop trying to mix songs on a DJ software or simply watching that week-long web series."
+	},
+	"awards": [{
+			"awardDetail": "Your first award"
+		},
+		{
+			"awardDetail": "Your second award"
+		}
+    ]
+}
